@@ -59,6 +59,8 @@ body {
 }
 
 .nav__item a.is-active {
+  display: block;
+  position: relative;
   color: #00acdc;
 }
 
